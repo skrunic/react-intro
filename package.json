@@ -1,0 +1,26 @@
+{
+  "name": "react-demo",
+  "version": "1.0.0",
+  "description": "Triple-I internal demo with React version 0.14.9",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "react": "^0.14.9",
+    "react-dom": "^0.14.9"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.7",
+    "file-loader": "^1.1.6",
+    "style-loader": "^0.19.1",
+    "uglifyjs-webpack-plugin": "^1.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Triple-Innovations",
+  "license": "MIT"
+}
